@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://RobertHamilton:Poblado1@roberthamilton.rrir83y.mongodb.net/?retryWrites=true&w=majority.",
+    "jwtSecret": "my_secret_token",
+    "githubClientId": "05b20a106d5568d56605",
+    "githubSecret": "71bed5818efbae8d2969ece8e72c9bddb7b1fdc7"
+  }
