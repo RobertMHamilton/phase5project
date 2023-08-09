@@ -33,6 +33,7 @@ The main target audience for DevConnector is individuals eager to learn programm
 - React Redux
 - Mongoose
 
+
 ## Description
 
 DevConnector is a full-stack application built on the MERN stack, utilizing MongoDB, Express, React, and Node.js. It also incorporates various open-source libraries to expedite development and enhance authentication security.
